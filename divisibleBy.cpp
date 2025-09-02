@@ -11,7 +11,7 @@ int main(){
  int x;
  cout<<"Enter Number ";
  cin>>x;
- if (x%5==0 && x%3==0 )
+ if (x%5==0 && x%3==0 )  // (x%15==0 )
  {
     cout<<x << " is divisible By 5 And 3"<<endl;
  }else{
