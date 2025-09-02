@@ -2,8 +2,8 @@
 //               Language: C++ / Cpp
 //               Topic   : [Condition]
 //               Problem : 👉👉 [1]
-//               Want    : Take integer input and print 
-//                        the absolute of that integer
+//               Want    : 
+//                        
 // ================================================
 #include <iostream>
 using namespace std;
