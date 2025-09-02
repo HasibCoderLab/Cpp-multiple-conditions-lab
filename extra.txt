@@ -1,0 +1,12 @@
+// ================================================
+//               Language: C++ / Cpp
+//               Topic   : [Condition]
+//               Problem : 👉👉 [1]
+//               Want    : Take integer input and print 
+//                        the absolute of that integer
+// ================================================
+#include <iostream>
+using namespace std;
+int main(){
+    return 0 ;
+}
